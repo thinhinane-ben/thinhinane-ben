@@ -30,11 +30,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thinhinane-ben&theme=tokyonight&show_icons=true)
+![Thinhinane's GitHub stats](https://github-readme-stats.vercel.app/api?username=thinhinane-ben&show_icons=true&count_private=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhinane-ben&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thinhinane-ben&layout=compact&theme=radical)
+
 
 ---
 
